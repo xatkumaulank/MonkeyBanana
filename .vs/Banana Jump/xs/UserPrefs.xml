@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{EADF226F-6C8E-9314-5A6F-E0000739C612}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Helper Scripts/SoundManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player Scripts/PlayerScript.cs" Line="49" Column="20" />
+      <File FileName="Assets/Scripts/Camera Scripts/CameraFollow.cs" Line="29" Column="33" />
+      <File FileName="Assets/Scripts/Platform Scripts/PlatformSpawner.cs" Line="61" Column="60" />
+      <File FileName="Assets/Scripts/Platform Scripts/PlatformScript.cs" Line="24" Column="89" />
+      <File FileName="Assets/Scripts/Spawner And Collector/Collector.cs" Line="15" Column="10" />
+      <File FileName="Assets/Scripts/Spawner And Collector/BGSpawner.cs" Line="48" Column="48" />
+      <File FileName="Assets/Scripts/Helper Scripts/GameManager.cs" Line="15" Column="36" />
+      <File FileName="Assets/Scripts/Helper Scripts/SoundManager.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
